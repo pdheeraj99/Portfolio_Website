@@ -1,0 +1,20 @@
+body {
+  background-color: #dae4ee;
+}
+
+.home {
+  height: 100vh;
+  background-image: url("../imgs/maxwell.jpg");
+  background-size: cover;
+}
+
+.intro {
+  color: green;
+  padding: 10% 20%;
+  text-align: justify;
+  font-weight: bold;
+}
+
+.name {
+  font-size: 50px;
+}
